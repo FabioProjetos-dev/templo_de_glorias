@@ -1,0 +1,17 @@
+[
+  {
+    "arquivo": "dev1.txt",
+    "slug": "dev1",
+    "categoria": "Fé"
+  },
+  {
+    "arquivo": "dev2.txt",
+    "slug": "dev2",
+    "categoria": "Esperança"
+  },
+  {
+    "arquivo": "dev3.txt",
+    "slug": "dev3",
+    "categoria": "Amor"
+  }
+]
